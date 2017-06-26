@@ -32,13 +32,13 @@ Elemente in Klammern sind nicht soooooooooooooooooooo wichtig ;)
 | Krankenwagen | ja |    2 |
 |   Gras            |    |     |
 |     Bäume          |    |     |
-|          Gebäude     |    |     |
+|          Gebäude     |  nein  |  2   |
 |     Himmel hell          |    |     |
 |  Himmel dunkel        |    |     |
 |      Auto         |    |     |
 |     Straße          |    |     |
 |     Person          |    |     |
-|     Polizist          |    |     |
+|     Polizist          |  nein  |  2   |
 |     Straßenlaterne          |    |     |
 |    Straßenmarkierung           |    |     |
 |      Ampel         |    |     |
