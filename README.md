@@ -35,12 +35,12 @@ Elemente in Klammern sind nicht soooooooooooooooooooo wichtig ;)
 |          Gebäude     |  nein  |  2   |
 |     Himmel hell          |    |     |
 |  Himmel dunkel        |    |     |
-|      Auto         |    |     |
-|     Straße          |    |     |
+|      Auto         |  nein  |  3   |
+|     Straße          |  nein  |  3   |
 |     Person          |    |     |
 |     Polizist          |  nein  |  2   |
 |     Straßenlaterne          |    |     |
-|    Straßenmarkierung           |    |     |
+|    Straßenmarkierung           |  nein  |  3   |
 |      Ampel         |    |     |
-|      Schild         |    |     |
+|      Schild         |  nein  |  3   |
 |               |    |     |
