@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg4298"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="VorfahrtGewähren.svg">
+  <defs
+     id="defs4300" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-90.714286"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4303">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#c1121c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.13281751px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 358.26765,733.36956 95.479394,278.4149 c 0,0 -8.517344,-18.69901 15.272486,-23.98564 l 528.85876,0 c 0,0 22.12553,5.67823 15.07669,22.71293 L 390.40481,734.04402 c 0,0 -18.2121,24.25205 -32.13716,-0.67446 z"
+       id="path4281"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.13281751px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109.33043,242.97161 c 0,0 -41.165285,6.95423 -21.976778,45.72285 0.932045,14.08853 267.464288,458.56614 267.464288,458.56614 0,0 18.01371,21.53812 41.50984,-2.74122 L 664.52409,281.18443 c 0,0 9.41478,-35.44379 -28.79808,-36.55139 z"
+       id="path4279"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.13281751px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 169.69562,306.93657 577.8354,306.31655 375.02938,657.58689 Z"
+       id="path4283"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
