@@ -1,5 +1,6 @@
 # KP-Video-17-18
 
+# Grundsätzliches Seitenverhältnis von 16:9 beachten!
 BILDER NICHT IM JPEG FORMAT HOCHLADEN!
 - bessere Bild/Grafikformate sind png, svg, ...
 - Ideen und Grafiken für alle Animationsgruppen
