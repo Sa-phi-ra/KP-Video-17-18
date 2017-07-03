@@ -1,4 +1,7 @@
 # KP-Video-17-18
+
+BILDER NICHT IM JPEG FORMAT HOCHLADEN!
+- bessere Bild/Grafikformate sind png, svg, ...
 - Ideen und Grafiken für alle Animationsgruppen
 
 Elemente in Klammern sind nicht soooooooooooooooooooo wichtig ;)
