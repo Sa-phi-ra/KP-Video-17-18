@@ -41,7 +41,7 @@ Elemente in Klammern sind nicht soooooooooooooooooooo wichtig ;)
 | Himmel dunkel  |    |     ||
 | Auto  |  ja  |   1/3  | angegeben/Selbstgemacht|
 | Person  (2 Stickmen) |  ja  | 2    ||
-| Polizist     (Hut +Strichmnnchen?!)     |  nein  |  2   ||
+| Polizist (Hut +Strichmnnchen?!) |  nein  |  2   ||
 | Straßenlaterne |    |     ||
 | Ampel   frontal| nein   |  4   ||
 | Radwegschild | ja   | 1    ||
@@ -55,5 +55,5 @@ Elemente in Klammern sind nicht soooooooooooooooooooo wichtig ;)
 | Grüner Haken/Rotes Kreuz (richtig/falsch) | nein |  4 ||
 | Straße von der seite oder so | nein |    2 ||
 | Fahrrad (von der Seite) | ja | 1  ||
-| Fahrrad (von oben) | nein | ||
-| Fahrradhelm (von oben/seite) | nein |  ||
+| Fahrrad (von oben) | nein |4 ||
+| Fahrradhelm (von oben/seite) | nein | 4 ||
