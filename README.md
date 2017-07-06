@@ -44,7 +44,7 @@ Elemente in Klammern sind nicht soooooooooooooooooooo wichtig ;)
 | Person  (2 Stickmen) |  ja  | 2    ||
 | Polizist (Hut +Strichmnnchen?!) |  nein  |  2   ||
 | Straßenlaterne |    |     ||
-| Ampel   frontal| nein   |  4   ||
+| Ampel   frontal| ja   |  4   |selbstgemacht|
 | Radwegschild | ja   | 1    | angegeben |
 | gerade Straße mit/ohne Radweg ( von oben) | ja   |  3   |Selbst|
 | Kreuzung mit/ohne Radweg(T-Kreuzung von oben) | ja   |  3   |selbstgemacht|
@@ -53,8 +53,8 @@ Elemente in Klammern sind nicht soooooooooooooooooooo wichtig ;)
 | Fahrradlenker mit Händen (1st Person) | nein |   ||
 | Tachoanzeige | nein |   ||
 | Stophand(!?) | nein |   ||
-| Grüner Haken/Rotes Kreuz (richtig/falsch) | nein |  4 ||
+| Grüner Haken/Rotes Kreuz (richtig/falsch) | ja |  4 |selbstgemacht|
 | Straße von der seite oder so | nein |    2 ||
 | Fahrrad (von der Seite) | ja | 1  | angegeben |
-| Fahrrad (von oben) | nein |4 ||
+| Fahrrad (von oben) | ja |4 |selbstgemacht|
 | Fahrradhelm (von oben/seite) | nein | 4 ||
