@@ -2,7 +2,7 @@
 
 # Grundsätzliches Seitenverhältnis von 16:9 beachten!
 BILDER NICHT IM JPEG FORMAT HOCHLADEN!
-- bessere Bild/Grafikformate sind png, svg, ...
+- bessere Bild/Grafikformate sind png, svg, psd ...
 - Ideen und Grafiken für alle Animationsgruppen
 
 Elemente in Klammern sind nicht soooooooooooooooooooo wichtig ;)
