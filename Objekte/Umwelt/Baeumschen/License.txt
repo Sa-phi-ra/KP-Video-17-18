@@ -22,3 +22,9 @@ Baum mit Blueten:
 -> Quelle: https://pixabay.com/de/baum-laubbaum-bl%C3%BCten-bl%C3%BChend-gras-1511608/
 -> Autor: susannp4
 -> Lizenz: https://creativecommons.org/publicdomain/zero/1.0/deed.de
+
+Linde:
+-> Quelle: https://pixabay.com/de/natur-baum-linde-freigestellt-2286961/
+-> Autor: Gellinger
+-> Lizenz: https://creativecommons.org/publicdomain/zero/1.0/deed.de
+
