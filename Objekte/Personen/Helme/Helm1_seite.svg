@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="78.318321mm"
+   height="27.415794mm"
+   viewBox="0 0 277.50586 97.142578"
+   id="svg4244"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Helm1_Seite.svg"
+   inkscape:export-filename="C:\Users\Simon Hochholzer\Documents\Studium\TUD\Bachelor Medieninformatik\5. Semester\Komplexpraktikum Video und Visualisierung\Projekt\Objekte\Personen\Helme\Helm1_seite.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4246" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.44"
+     inkscape:cx="-282.72836"
+     inkscape:cy="-293.84202"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1536"
+     inkscape:window-height="803"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4249">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Helm"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-105.5,-349.50586)">
+    <path
+       style="opacity:1;fill:#a6bf19;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 244.28516,349.50586 A 141.42857,120 0 0 0 105.5,446.64844 l 277.50586,0 a 141.42857,120 0 0 0 -138.7207,-97.14258 z m -58.33789,21.9082 21.91406,6.49414 L 195.6875,419 l -21.91602,-6.49414 12.17579,-41.0918 z m 116.06445,0.16406 10.83203,41.4668 -22.11523,5.77539 -10.83204,-41.46679 22.11524,-5.7754 z m -70.36914,6.6504 22.85547,0 0,42.85742 -22.85547,0 0,-42.85742 z"
+       id="path4792"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

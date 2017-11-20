@@ -9,7 +9,7 @@ Elemente in Klammern sind nicht soooooooooooooooooooo wichtig ;)
 
 # Noch benötigte Bildelemente
 - Gras & Bäume als Deko
-- Gebäude 
+- Gebäude
 - Himmel (hell und dunkel)
 - Autos (Ansicht von oben, hinten, vorne ...)
 - Straße (Kreuzungen, Kurven, T-Kreuzung)
@@ -57,4 +57,4 @@ Elemente in Klammern sind nicht soooooooooooooooooooo wichtig ;)
 | Straße von der seite oder so | nein |    2 ||
 | Fahrrad (von der Seite) | ja | 1  | angegeben |
 | Fahrrad (von oben) | ja |4 |selbstgemacht|
-| Fahrradhelm (von oben/seite) | nein | 4 ||
+| Fahrradhelm (von oben/seite) | ja | 1 | selbstgemacht |
