@@ -1,1 +1,6 @@
+# Alle Außer Denkblase
 Sound effects obtained from https://www.zapsplat.com
+
+# Denkblase
+CC0
+Quelle: https://zapsplat.com/wp-content/uploads/2015/sound-effects-dusty-room/dustyroom_multimedia_alert.mp3
