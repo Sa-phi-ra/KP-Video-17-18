@@ -31,13 +31,13 @@ Elemente in Klammern sind nicht soooooooooooooooooooo wichtig ;)
 
 | Element   |    ist fertig      |  Gruppe | Lizenz |
 |----------|:-------------:|------:|:----------:|
-| Kran |  ja | 2 | |
-| Bauzaun |    ja   |   2 ||
+| Kran |  ja | 2 | selbstgemacht|
+| Bauzaun |    ja   |   2 |selbstgemacht|
 | Krankenwagen von der Seite | ja |    2 |selbstgemacht|
 | Krankenwagen anderen Seiten | NEIN |    2 |selbstgemacht|
 | Gras  als Textur  |  ja  |     ||
 | Bäume   |  ja  | 1    |angegeben|
-| Gebäude     |  nein  |  2   ||
+| Gebäude     |  nein  |  2   |sestgemacht|
 | Himmel hell  |ja    | 4    |Selbstgemacht|
 | Himmel dunkel  |    |     ||
 | Auto  |  ja  |   1/3  | angegeben/Selbstgemacht|
